@@ -58,10 +58,4 @@ Both servers using servers-common library which contains Task model, TaskType an
         "taskType": "GETALLPRODUCTS"
     }
     ```
-
-## GET requests example:
-
-* Get N products
-    ```
-    http://server.com/api/getAllATasks?count=N
-    ```
+    
