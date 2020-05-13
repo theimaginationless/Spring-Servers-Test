@@ -4,7 +4,7 @@
 
 Both servers using servers-common library which contains Task model, TaskType and Product models.
 
-##POST requests example:
+## POST requests example:
 
 
 * Create new products:
@@ -59,7 +59,7 @@ Both servers using servers-common library which contains Task model, TaskType an
     }
     ```
 
-##GET requests example:
+## GET requests example:
 
 * Get N products
     ```
