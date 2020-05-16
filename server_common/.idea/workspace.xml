@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="server-common" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db685c87-be3e-4e68-b03b-79fd0fe740d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bjWvOPFXFfeTKwMWBsboyRHR2a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="server_common" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Task" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db685c87-be3e-4e68-b03b-79fd0fe740d9" name="Default Changelist" comment="" />
+      <created>1589146212471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589146212471</updated>
+      <workItem from="1589146216799" duration="5083000" />
+      <workItem from="1589289723049" duration="12414000" />
+      <workItem from="1589360336585" duration="589000" />
+      <workItem from="1589361083046" duration="598000" />
+      <workItem from="1589369787235" duration="818000" />
+      <workItem from="1589392955464" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="135" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589146400899">
+      <screen x="-609" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="135" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-609.-1440.2560.1440@-609.-1440.2560.1440" timestamp="1589146400899" />
+    <state x="484" y="-997" key="#com.intellij.ide.util.MemberChooser" timestamp="1589306248279">
+      <screen x="-609" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="484" y="-997" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-609.-1440.2560.1440@-609.-1440.2560.1440" timestamp="1589306248279" />
+    <state x="405" y="-1440" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589306129248">
+      <screen x="-609" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="405" y="-1440" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900/-609.-1440.2560.1440@-609.-1440.2560.1440" timestamp="1589306129248" />
+    <state x="159" y="-1139" key="SettingsEditor" timestamp="1589304136994">
+      <screen x="-609" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="159" y="-1139" key="SettingsEditor/0.0.1440.900/-609.-1440.2560.1440@-609.-1440.2560.1440" timestamp="1589304136994" />
+    <state x="159" y="-1139" key="SettingsEditor/0.23.1440.877/-609.-1440.2560.1440@-609.-1440.2560.1440" timestamp="1589146610584" />
+    <state x="397" y="-820" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589304134766">
+      <screen x="-609" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="397" y="-820" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900/-609.-1440.2560.1440@-609.-1440.2560.1440" timestamp="1589304134766" />
+  </component>
+</project>
