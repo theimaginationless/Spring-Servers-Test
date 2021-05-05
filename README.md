@@ -1,6 +1,6 @@
 # Spring-Servers-Test
-![Problem](https://theimless.me/uploads/images/306-f47f62a5410fe4b02d176177c93ca230.jpeg)
-![Problem description](https://theimless.me/uploads/images/671-7b4a4b51762f557918b0168554ea6400.jpeg)
+![Problem](https://theimless.top/uploads/images/306-f47f62a5410fe4b02d176177c93ca230.jpeg)
+![Problem description](https://theimless.top/uploads/images/671-7b4a4b51762f557918b0168554ea6400.jpeg)
 
 Both servers using servers-common library which contains Task model, TaskType and Product models.
 
